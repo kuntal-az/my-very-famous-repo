@@ -1,1 +1,2 @@
-
+This is a new feature.
+Some code for the new feature.
